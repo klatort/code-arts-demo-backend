@@ -1,0 +1,24 @@
+{
+  "name": "code-arts-demo-backend",
+  "version": "1.0.0",
+  "description": "backend for the code-arts-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klatort/code-arts-demo-backend.git"
+  },
+  "author": "klatort",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klatort/code-arts-demo-backend/issues"
+  },
+  "homepage": "https://github.com/klatort/code-arts-demo-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "pg": "^8.11.3"
+  }
+}
