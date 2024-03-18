@@ -9,6 +9,11 @@ This is a simple Express.js API for storing and retrieving messages. It uses Mon
 - Update message likes and dislikes.
 - Count total number of messages.
 
+## Requirements
+
+- Node v20.9.0
+- npm 10.5.0
+
 ## Setup
 1. Install the dependencies:
 ```bash
